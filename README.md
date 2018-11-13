@@ -10,6 +10,7 @@ What you'll need:
 Have that? Great.
 
 #chmod +x saferbrowser.sh
+
 #./saferbrowser.sh
 
 Once that comes up, hit "Try Xubuntu", and then open a browser. 60 seconds later, you have a throwaway machine with no disk and minimal system requirements.
